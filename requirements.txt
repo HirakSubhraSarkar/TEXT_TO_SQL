@@ -1,3 +1,5 @@
 streamlit
 google-generativeai
 python-dotenv
+sqlglot
+openai==0.28
